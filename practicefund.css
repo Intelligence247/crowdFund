@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section#all {
+    background-color: rgb(255, 94, 1);
+    width: 90rem;
+    height: 56.25rem;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: inline-block;
+    position: absolute;
+    flex-wrap: wrap;
+    display: flex;
+    top: 27px;
+
+
+}
+
+.crowfund {
+    left: 70.56px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+}
+
+.girl {
+    position: absolute;
+    left: 78.11rem;
+    border-radius: 19.5px;
+    height: 39px;
+    width: 39px;
+}
+
+.kate {
+    position: absolute;
+    left: 81.4rem;
+    font-weight: bold;
+    color: white;
+    display: inline;
+    width: 57px;
+    height: 22px;
+}
+
+.arrowright {
+    position: absolute;
+    left: 85.23rem;
+    color: white;
+}
+
+.phone {
+    left: 964px;
+    top: 127px;
+    position: absolute;
+}
+
+section.two {
+    position: absolute;
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+
+.textmobile {
+    position: absolute;
+    top: 260px;
+    left: 190px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 96px;
+    color: #ffffff;
+
+}
+
+.appfor {
+    position: absolute;
+    top: 528px;
+    left: 190px;
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: -0.2px;
+    color: #ffffff;
+    opacity: 0.8;
+    right: 650px;
+    display: inline;
+    width: 600px;
+    height: 34px;
+
+}
+
+.download {
+    background-color: rgb(255, 94, 1);
+    position: absolute;
+    color: white;
+    top: 636px;
+    left: 230px;
+    Width: 81px;
+    Height: 28px;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: 17px 95px 30px 20px;
+    text-align: center;
+    border-spacing: 0px;
+    border-radius: 50px;
+
+
+}
+
+.last-line {
+    display: inline-block;
+    flex-wrap: wrap;
+    position: absolute;
+    display: flex;
+}
+
+.copy {
+    left: 45px;
+    top: 862px;
+    width: 243px;
+    height: 17px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.conandothers {
+    position: absolute;
+    flex-wrap: wrap;
+    display: inline;
+    display: flex;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.conandothers p:first-child {
+    position: absolute;
+    top: 858.5px;
+    left: 480.64px;
+    height: 24px;
+    width: 82px;
+}
+
+.conandothers p:nth-child(2) {
+    position: absolute;
+    left: 593.64px;
+    top: 858.5px;
+
+}
+
+.conandothers p:nth-child(3) {
+    top: 858.5px;
+    left: 667.64px;
+    width: 119px;
+    height: 20px;
+    position: absolute;
+
+}
+
+.conandothers p:nth-child(4) {
+    position: absolute;
+    left: 820.64px;
+    top: 858.5px;
+    width: 139px;
+
+}
